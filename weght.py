@@ -25,6 +25,7 @@ def action():
 
 action()    
 
+
 #Pseudocode
 #Recieve weight input in grams from user
 #Declare neccessary variables
